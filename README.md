@@ -4,6 +4,7 @@ to create a movie recommender system, and to provide analysis of the datasets on
 as part of the Wild Code School Data Analyst training.
 
 Here is the introduction of this project :
+
 "Vous êtes un Data Analyst freelance. Un cinéma en perte de vitesse situé dans la Creuse vous contacte. Il a décidé de passer le cap du digital en créant un site Internet taillé pour les locaux. 
 Pour aller encore plus loin, il vous demande de créer un moteur de recommandations de films qui à terme, enverra des notifications aux clients via internet.
 
@@ -18,4 +19,4 @@ In order to realise this project, we used :
 - python with pandas, plotly and sickit learn library
 - streamlit to present the result of our work
 
-You will find on this repository some of the code we wrote to achieve the project. 
+You will find on this repository some of the code we used for the recommendation system 
